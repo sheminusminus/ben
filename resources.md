@@ -1,4 +1,13 @@
+#nodejs, npm, and expressjs
+
 you should be able to test any/all of this on your own machine first, but good practice to test it remotely to make sure everything works as expected
+
+###npm module tutorial
+- you don't have to actually publish anything, but strongly recommended doing this to understand creating node projects:
+https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
+
+###to download the foundation library through npm and add it to your project's package.json file:
+npm install foundation-sites
 
 ###codeschool tutorial on expressjs (they're really corny but typically good)
 https://www.codeschool.com/courses/building-blocks-of-express-js
