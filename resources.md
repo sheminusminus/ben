@@ -26,7 +26,7 @@ you should be able to test any/all of this on your own machine first, but good p
 [basic express to mysql connection](https://expressjs.com/en/guide/database-integration.html#mysql)
 
 ###testing your app + database with user loads
-[user testing for nodejs and musql](https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/)
+[user testing for nodejs and mysql](https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/)
 
 ###the ec2/nodejs setup tutorial
 [ec2 and nodejs](https://codeforgeek.com/2015/05/setup-node-development-environment-amazon-ec2/)
