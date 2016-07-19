@@ -18,6 +18,9 @@ https://expressjs.com/en/guide/database-integration.html#mysql
 ###testing your app + database with user loads
 https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/
 
+###the ec2/nodejs setup tutorial
+https://codeforgeek.com/2015/05/setup-node-development-environment-amazon-ec2/
+
 ##ec2 alternative
 
 if you have trouble configuring anything on ec2, or want more control over your box-
