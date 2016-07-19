@@ -21,7 +21,9 @@ https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/
 ##ec2 alternative
 
 if you have trouble configuring anything on ec2, or want more control over your box-
-super awesome alternative is digitalocean, which gives you 100% control, lets you mess with literally anything, and has amazing resources(i use DO almost exclusively)
+
+super awesome alternative is digitalocean, which gives you 100% control, lets you mess with literally anything, and has amazing resources (i use DO almost exclusively)
+
 you can create and destroy droplets (instances) at whim, which is nice for experimenting
 
 - for digitalocean, the $5/month droplet option will be more than adequate
