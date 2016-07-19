@@ -45,4 +45,4 @@ you can create and destroy droplets (instances) at whim, which is nice for exper
 - their ubuntu setup guide: [initial ubuntu setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
 - **using ubuntu, nodejs, sockiet.io, express framework, and client-side javascript all together: [the whole shebang!](https://www.digitalocean.com/community/tutorials/how-to-install-express-a-node-js-framework-and-set-up-socket-io-on-a-vps)**
 
-digitalocean's ubuntu tutorials will apply to almost any ubuntu machine, so their community section is a goldmine whether you use them or not
+digitalocean's ubuntu tutorials will apply to almost any ubuntu machine, so [their community section](https://www.digitalocean.com/community) is a goldmine whether you use them or not
