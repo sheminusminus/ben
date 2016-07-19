@@ -7,7 +7,8 @@ you should be able to test any/all of this on your own machine first, but good p
 https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
 
 ###to download the foundation library through npm and add it to your project's package.json file:
-npm install foundation-sites
+`cd your-project-directory`
+`npm install foundation-sites`
 
 ###codeschool tutorial on expressjs (they're really corny but typically good)
 https://www.codeschool.com/courses/building-blocks-of-express-js
